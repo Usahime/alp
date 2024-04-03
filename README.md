@@ -1,2 +1,2 @@
-# ALP
-Exercises from the Algorithms and Programming Logic classes
+# alp
+Exercícios das aulas de Algorítmos e Lógica de Programação
